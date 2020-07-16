@@ -29,8 +29,27 @@ header{
 	text-align: center;
 }
 
-h1{
+#subtitle{
+	font-size: 20px;
+}
 
+h1{
+	font-family:'Be Vietnam';
+	font-size: 40px;
+
+}
+
+h2{
+	font-family:'Be Vietnam'; 
+}
+
+h3{
+	font-family:'Be Vietnam';
+}
+
+p{
+	font-family: 'DM Sans';
+	font-size: 18px;
 }
 
 nav{
@@ -44,10 +63,11 @@ nav{
 
 nav a, nav h3{
 	margin: 0px;
-	padding: 20px;
+	padding: 25px;
 	line-height: 60px;
 	margin-left: 1em;
 	margin-right: 1em;
+	font-family: "Be Vietnam";
 	text-decoration: none;
 	color: black;
 
@@ -61,15 +81,16 @@ nav a:hover{
 
 
 #one, #two, #three, #four, #five{
-	padding: 20px;
+	padding: 10px;
+	padding-bottom: 20px;
 	background-color: #2F455C;
 	color: white;
+
 	
 	
 }
 
 .subheader{
-
 	text-align: center;
 }
 
