@@ -21,11 +21,21 @@ section{
 
 }
 
+img{
+	align-content: center;
+	padding: 10px;
+	background-color: #1DCDFE;
+}
+
 header{
 	background-color: #2F455C;
 	color: white; /* more readable on an orange background */
 	padding-top:50px;
 	padding-bottom: 50px;
+	text-align: center;
+}
+
+.subheader{
 	text-align: center;
 }
 
@@ -90,9 +100,7 @@ nav a:hover{
 	
 }
 
-.subheader{
-	text-align: center;
-}
+
 
 /* Simple grid */
 .g-row{
