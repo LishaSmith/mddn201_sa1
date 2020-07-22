@@ -87,7 +87,7 @@ nav a, nav h3{
 nav a:hover{
 	background-color:  #21D0B2; /* Hover styles to let people know they can click it */
 	color: white;
-	transition: 0.2s;
+	transition: 0.3s;
 
 }
 
